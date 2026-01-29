@@ -1,0 +1,1 @@
+print("Punto 9 (sección uno)")
